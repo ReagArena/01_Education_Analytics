@@ -1,0 +1,27 @@
+# Executive Summary & Recommendations
+
+## Overview
+This report synthesizes performance and attendance data across Basic 6, JHS1, JHS2, and JHS3 cohorts for Mathematics and Science at Glamersco Citadel Educational Complex.
+
+> **Data Integrity Notice:** All metrics were analyzed using synthetic dataset records created for training and portfolio validation.
+
+## Key Findings
+
+1. **Class-Level Rankings:**
+   - **Basic 6** demonstrated the highest academic performance across both subjects (Math: 70.23%, Science: 74.03%).
+   - Performance steadily declined across higher grade levels: JHS1 (70.22% / 73.06%), JHS2 (68.47% / 71.27%), and JHS3 (66.33% / 68.67%).
+
+2. **Subject Disparity:**
+   - Science performance consistently exceeded Mathematics performance across every cohort.
+
+3. **Attendance & Academic Risk Association:**
+   - A clear relationship exists between attendance rates and academic standing.
+   - All 9 unique students (18 subject records) with attendance under 70% fell directly into the "Needs Support" performance band (<60% average score).
+
+## Actionable Recommendations
+
+1. **Early Warning Attendance Tracking:**
+   - Implement an automated administrative alert system when student attendance falls below 80% to enable proactive parental engagement before scores drop below passing thresholds.
+
+2. **Targeted Mathematics Intervention:**
+   - Allocate supplementary instructional hours and peer-tutoring sessions for JHS2 and JHS3 Mathematics cohorts to stem upper-grade score regression.
