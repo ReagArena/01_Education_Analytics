@@ -1,9 +1,6 @@
 # Executive Summary & Recommendations
 
-## Overview
-This report synthesizes performance and attendance data across Basic 6, JHS1, JHS2, and JHS3 cohorts for Mathematics and Science at Glamersco Citadel Educational Complex.
-
-> **Data Integrity Notice:** All metrics were analyzed using synthetic dataset records created for training and portfolio validation.
+> **Notice on Data Authenticity:** *This report synthesizes performance and attendance data across Basic 6, JHS1, JHS2, and JHS3 cohorts for Mathematics and Science at Glamersco Citadel Educational Complex. All metrics were analyzed using 100% synthetic dataset records created for training, SQL verification, and portfolio validation. School references and administrative contexts serve strictly as a realistic analytical scenario and do not represent confidential or real-world student records.*
 
 ## Key Findings
 
@@ -15,13 +12,18 @@ This report synthesizes performance and attendance data across Basic 6, JHS1, JH
    - Science performance consistently exceeded Mathematics performance across every cohort.
 
 3. **Attendance & Academic Risk Association:**
-   - A clear relationship exists between attendance rates and academic standing.
+   - Within this synthetic sample, an observed positive association exists between attendance rates and academic standing.
    - All 9 unique students (18 subject records) with attendance under 70% fell directly into the "Needs Support" performance band (<60% average score).
 
-## Actionable Recommendations
+## Strategic & Policy Recommendations
 
-1. **Early Warning Attendance Tracking:**
-   - Implement an automated administrative alert system when student attendance falls below 80% to enable proactive parental engagement before scores drop below passing thresholds.
+1. **Proactive Early Warning Attendance Tracking:**
+   - **Data-Derived Evidence:** 100% of students in this sample with attendance below 70% required academic support (<60% average score).
+   - **Policy Recommendation:** Implement an automated administrative alert system when student attendance falls below an **80% early-warning threshold**. This serves as a conservative policy trigger to enable proactive parental engagement before attendance and scores drop below passing thresholds.
 
 2. **Targeted Mathematics Intervention:**
-   - Allocate supplementary instructional hours and peer-tutoring sessions for JHS2 and JHS3 Mathematics cohorts to stem upper-grade score regression.
+   - Allocate supplementary instructional hours and peer-tutoring sessions for JHS2 and JHS3 Mathematics cohorts to stem upper-grade score regression prior to national final examinations.
+
+## Analytical Limitations
+- **Synthetic Sample:** Results are based on a 72-row synthetic dataset designed for portfolio and query verification.
+- **Scope:** Restricted to two core subjects over a single academic term using unweighted assessment averages.
